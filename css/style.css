@@ -616,3 +616,7 @@ footer p {
 .certificate-item {
   margin: 0 2% 0 0;
 }
+
+.project-text-container ul {
+  padding-left: 20px;
+}
